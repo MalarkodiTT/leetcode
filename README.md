@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MalarkodiTT/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/MalarkodiTT/leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MalarkodiTT/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MalarkodiTT/leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/MalarkodiTT/leetcode/tree/master/0070-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/MalarkodiTT/leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MalarkodiTT/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MalarkodiTT/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
@@ -104,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/MalarkodiTT/leetcode/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
