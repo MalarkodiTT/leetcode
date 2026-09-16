@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MalarkodiTT/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/MalarkodiTT/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/MalarkodiTT/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MalarkodiTT/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MalarkodiTT/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MalarkodiTT/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/MalarkodiTT/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/MalarkodiTT/leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/MalarkodiTT/leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/MalarkodiTT/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MalarkodiTT/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MalarkodiTT/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/MalarkodiTT/leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/MalarkodiTT/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/MalarkodiTT/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MalarkodiTT/leetcode/tree/master/0940-distinct-subsequences-ii) |
