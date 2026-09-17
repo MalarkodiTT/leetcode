@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/MalarkodiTT/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MalarkodiTT/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2029-stone-game-ix](https://github.com/MalarkodiTT/leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MalarkodiTT/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MalarkodiTT/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalarkodiTT/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MalarkodiTT/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MalarkodiTT/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MalarkodiTT/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -68,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalarkodiTT/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MalarkodiTT/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MalarkodiTT/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MalarkodiTT/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MalarkodiTT/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/MalarkodiTT/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MalarkodiTT/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MalarkodiTT/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Manacher
 |  |
