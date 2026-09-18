@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalarkodiTT/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MalarkodiTT/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MalarkodiTT/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MalarkodiTT/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MalarkodiTT/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/MalarkodiTT/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MalarkodiTT/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/MalarkodiTT/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MalarkodiTT/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/MalarkodiTT/leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MalarkodiTT/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MalarkodiTT/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MalarkodiTT/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MalarkodiTT/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/MalarkodiTT/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MalarkodiTT/leetcode/tree/master/2029-stone-game-ix) |
 ## Memoization
@@ -192,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MalarkodiTT/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MalarkodiTT/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
