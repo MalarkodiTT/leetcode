@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MalarkodiTT/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MalarkodiTT/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/MalarkodiTT/leetcode/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MalarkodiTT/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MalarkodiTT/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MalarkodiTT/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MalarkodiTT/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MalarkodiTT/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MalarkodiTT/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -81,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalarkodiTT/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MalarkodiTT/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MalarkodiTT/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MalarkodiTT/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MalarkodiTT/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MalarkodiTT/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MalarkodiTT/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/MalarkodiTT/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MalarkodiTT/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
