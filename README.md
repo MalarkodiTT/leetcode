@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MalarkodiTT/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MalarkodiTT/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MalarkodiTT/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/MalarkodiTT/leetcode/tree/master/0014-longest-common-prefix) |
 | [1386-cinema-seat-allocation](https://github.com/MalarkodiTT/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/MalarkodiTT/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MalarkodiTT/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/MalarkodiTT/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/MalarkodiTT/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/MalarkodiTT/leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/MalarkodiTT/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MalarkodiTT/leetcode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/MalarkodiTT/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/MalarkodiTT/leetcode/tree/master/0115-distinct-subsequences) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/MalarkodiTT/leetcode/tree/master/1096-brace-expansion-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MalarkodiTT/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
