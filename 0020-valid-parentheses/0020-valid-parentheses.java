@@ -1,12 +1,17 @@
 class Solution {
-    public boolean isValid(String s) {
+    public boolean isValid(String str) {
+        if (str.length() % 2 == 1)
+            return false;
 
-        while (s.contains("()") || s.contains("{}") || s.contains("[]")) {
-            s = s.replace("()", "");
-            s = s.replace("{}", "");
-            s = s.replace("[]", "");
-        }
+        char[] S = str.toCharArray();
+        int j = 0;
 
-        return s.length() == 0;
+        for (char c : S)
+            if ((c & 3) != 1)
+                S[j++] = c;
+            else if (j == 0 || ((c - S[--j] + 1) >> 1) != 1)
+                return false;        
+
+        return j == 0;
     }
 }
